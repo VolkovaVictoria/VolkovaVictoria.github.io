@@ -1,0 +1,32 @@
+body{
+	background:mistyrose
+}
+
+h1 {
+	color:mediumslateblue
+}
+h2 {
+color:mediumslateblue
+}
+h3 {
+	color:darkorchid
+}
+
+
+
+.pic {
+display:inline-block; 
+width:50%;
+position:relative;
+text-align:right
+
+
+}
+
+.pictext {
+display:inline-block; 
+width:40%;
+position:relative;
+vertical-align:top;
+
+}
